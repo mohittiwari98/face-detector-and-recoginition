@@ -1,5 +1,14 @@
 # face-detector-and-recoginition
 
+![](https://img.shields.io/badge/Programming_Language-Python-cyan.svg)
+![](https://img.shields.io/badge/Tool_Used-Tkinter-orange.svg)
+![](https://img.shields.io/badge/Tool_Used-os-red.svg)
+![](https://img.shields.io/badge/Tool_Used-facedetection-pink.svg)
+![](https://img.shields.io/badge/Tool_Used-numpy-darkpink.svg)
+![](https://img.shields.io/badge/Python_Version-3.9-blue.svg)
+![](https://img.shields.io/badge/Application-Detector-lemon.svg)
+![](https://img.shields.io/badge/Status-Complete-green.svg)
+
 This is a Python-based project for detecting and recognizing faces in real-time using your webcam. It leverages OpenCV and face_recognition libraries to detect and identify faces with high accuracy.
 
 ### Features
