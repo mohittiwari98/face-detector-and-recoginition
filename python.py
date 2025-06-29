@@ -1,5 +1,5 @@
 #face detection
-#import libaries like cv2,face
+#import libaries like cv2,face re
 import face_recognition
 import cv2
 import numpy as np
