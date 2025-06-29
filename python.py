@@ -1,5 +1,5 @@
 #face detection
-#import lib
+#import liba
 import face_recognition
 import cv2
 import numpy as np
