@@ -4,6 +4,7 @@
 This is a Python-based project for detecting and recognizing faces in real-time using your webcam. It leverages OpenCV and face_recognition libraries to detect and identify faces with high accuracy.
 
 
+
 ### Tools and Modules 
 ![](https://img.shields.io/badge/Programming_Language-Python-cyan.svg)
 ![](https://img.shields.io/badge/Tool_Used-Tkinter-orange.svg)
